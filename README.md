@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to umuriney6! Pages!
+Feel free to bookmark this to keep an eye on my project updates.
 
 You can use the [editor on GitHub](https://github.com/umuriney6/umuriney6-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
